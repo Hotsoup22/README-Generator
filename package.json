@@ -1,0 +1,23 @@
+{
+  "name": "README-Generator",
+  "version": "1.0.0",
+  "description": "task is to create a command-line application that dynamically generates a professional README.md file from a user's input using the Inquirer package.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hotsoup42/README-Generator.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hotsoup42/README-Generator/issues"
+  },
+  "homepage": "https://github.com/hotsoup42/README-Generator#readme",
+  "dependencies": {
+    "inquirer": "^8.1.1"
+  }
+}

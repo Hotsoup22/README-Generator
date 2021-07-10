@@ -12,9 +12,9 @@
   
    ## Credits:
   
-  
    ## license:
   license for now
+  lic.1
    ## Tests
 
    ## FAQ/Questions:
