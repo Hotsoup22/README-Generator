@@ -11,10 +11,12 @@ If your README is long, add a table of contents to make it easy for users to fin
 - download node
 - inquirer dependency, install before running the application.
 ## Usage
+[![For full video walkthrough click here> ](https://drive.google.com/file/d/1g_ObVItV-29gwSrjab3V5fGTr6IIxB1J/view)](https://drive.google.com/file/d/1g_ObVItV-29gwSrjab3V5fGTr6IIxB1J/view)
+
 -node index.js
 ## Credits
 - huge shoutout for helping me with README to this webpage:https://coding-boot-camp.github.io/full-stack/github/professional-readme-guide
-
+- UW CODE Boot camp instructors
 ## License
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ---
